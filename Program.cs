@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace pattern_create
+namespace ashr.net.hacktools
 {
 	class MainClass
 	{
